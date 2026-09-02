@@ -2,6 +2,8 @@
 
 A minimalist, distraction-free clock, timer, and stopwatch designed for focus, presentations, and daily display.
 
+---
+
 ## Key Features
 
 - **Fullscreen Display:** Clean interface that hides unnecessary navigation elements for ultimate readability.
