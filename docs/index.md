@@ -1,8 +1,3 @@
----
-title: JustClock
-layout: default
----
-
 # JustClock
 
 A minimalist, distraction-free clock, timer, and stopwatch designed for focus, presentations, and daily display.
