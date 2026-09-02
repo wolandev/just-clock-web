@@ -13,7 +13,7 @@ A minimalist, distraction-free clock, timer, and stopwatch designed for focus, p
 
 ## Support & Contact
 
-If you have any questions, feedback, or support inquiries regarding **Fullscreen Clock**, please contact us:
+If you have any questions, feedback, or support inquiries regarding **JustClock**, please contact us:
 
 - **Email:** thewolandev@gmail.com
 

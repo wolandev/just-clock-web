@@ -8,7 +8,7 @@ This privacy policy applies to the "JustClock" application for mobile devices.
 
 **We do not collect, store, or transmit any personal information.** 
 
-The Fullscreen Clock application is designed to function entirely offline. It does not collect any personally identifiable information (PII), analytics, crash reports, or usage data. Your data stays completely on your device.
+The JustClock application is designed to function entirely offline. It does not collect any personally identifiable information (PII), analytics, crash reports, or usage data. Your data stays completely on your device.
 
 ## 2. Local Storage
 
